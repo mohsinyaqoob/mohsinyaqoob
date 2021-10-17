@@ -18,7 +18,7 @@
 <br />
 <br />
 
-I'm an coder by profession and a designer by passion.  
+I'm a coder by profession and a designer by passion.  
 I write reusable peices of code and create super-awesome layouts for web and mobile
 
 
