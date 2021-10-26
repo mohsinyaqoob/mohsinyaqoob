@@ -23,7 +23,7 @@ I write reusable peices of code and create super-awesome layouts for web and mob
 
 
 Technologies:
-- Javascript, React, Angular, Vue, jQuery, PWA
+- Javascript, React, GraphQL, Serverless and more
 - Node, .NET, PHP
 
 Also interested in:
