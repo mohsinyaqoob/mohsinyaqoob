@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/mohsinyaqoob">
   <img align="left" alt="Mohsin Yaqoob - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href="https://instagram.com/mohsinyaqoob">
+<a href="https://instagram.com/mohsin_yaqoob_">
   <img align="left" alt="Mohsin Yaqoob - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://twitter.com/mohsinyaqoob">
