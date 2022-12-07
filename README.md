@@ -1,7 +1,7 @@
 <a href="https://mohsinyaqoob.com">
   <img
     alt="Freelance React, Node, Typescript Developer from Kashmir, India"
-    src="https://res.cloudinary.com/mohsinyaqoob/image/upload/v1670408140/mohsinyaqoob.com/Github_Cover.png"
+    src="https://asset.cloudinary.com/mohsinyaqoob/700b278f5ea03576254cb68d3cd032b4"       
   />
 </a>
 
