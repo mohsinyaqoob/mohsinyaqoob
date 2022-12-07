@@ -1,3 +1,10 @@
+<a href="https://mohsinyaqoob.com">
+  <img
+    alt="Freelance React, Node, Typescript Developer from Kashmir, India"
+    src="https://res.cloudinary.com/mohsinyaqoob/image/upload/v1670408140/mohsinyaqoob.com/Github_Cover.png"
+  />
+</a>
+
 # Hi People!
 
 <a href="https://youtube.com/mohsinyaqoob">
@@ -18,16 +25,45 @@
 <br />
 <br />
 
-I'm a coder by profession and a designer by passion.  
-I write reusable peices of code and create super-awesome layouts for web and mobile
+A multidiciplinary developer with passion for elegant, innovative and functional user interfaces. Over 3 years of experience in full-stack engineering industry with more than 20+ SaaS projects delivered. Designed pioneering digital products across industry verticals including retail, healthcare, automotive, finance and more.
 
+#### 🚀 Backend Core
+- NodeJS
+- C#
+- PHP
 
-Technologies:
-- Javascript, React, GraphQL, Serverless and more
-- Node, .NET, PHP
+#### 🚀 Backend Frameworks
+- Express
+- NestJS
+- Loopback 4
+- ASP.NET MVC Core
 
-Also interested in:
-- Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress  
+#### 🚀 Front-end
+- HTML, CSS3
+- Vanilla Javascript
+- Tailwind CSS
+
+#### 🚀 Front-end Frameworks
+- ReactJS
+- Angular
+- Redux
+
+#### 🚀 Testing
+- Jest
+- React Testing Library
+
+#### 🚀 Design Systems
+- Material UI
+- Chakra UI
+- Ant Design System
+- Fluent Design System
+
+#### 🚀 DevOps
+- CI/CD Pipelines
+- Docker / Kubernetes
+
+📔 [Learn more about me](https://mohsinyaqoob.com/)
+
 
 Cheers,  
 Mohsin Yaqoob
