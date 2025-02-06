@@ -18,7 +18,7 @@
 <br />
 <br />
 
-A multidiciplinary developer with passion for elegant, innovative and functional user interfaces. Over 3 years of experience in full-stack engineering industry with more than 20+ SaaS projects delivered. Designed pioneering digital products across industry verticals including retail, healthcare, automotive, finance and more.
+I'm a developer who enjoys creating thoughtful, functional, and user-friendly interfaces. With over 5 years of experience in full-stack development, I've contributed to building and delivering 20+ SaaS projects across industries like retail, healthcare, automotive, and finance. I focus on writing clean, maintainable code and designing solutions that make a difference.
 
 📔 [Learn more about me](https://mohsinyaqoob.com/)
 
