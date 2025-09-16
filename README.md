@@ -18,7 +18,10 @@
 <br />
 <br />
 
-I'm a developer who enjoys creating thoughtful, functional, and user-friendly interfaces. With over 5 years of experience in full-stack development, I've contributed to building and delivering 20+ SaaS projects across industries like retail, healthcare, automotive, and finance. I focus on writing clean, maintainable code and designing solutions that make a difference.
+I am Mohsin Yaqoob, a developer who loves turning ideas into living, breathing products.
+For me, writing code isn’t just about functionality, it’s about creating experiences that feel seamless, human, and timeless. I enjoy solving complex problems, but even more, I enjoy designing solutions that actually make someone’s day easier.
+Outside the screen, I am curious about how technology, creativity, and people intersect. Every project is not just a milestone, but a story I get to be part of.
+Let us connect, share ideas, and maybe even build something meaningful together.
 
 📔 [Learn more about me](https://mohsinyaqoob.com/)
 
