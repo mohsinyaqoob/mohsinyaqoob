@@ -76,7 +76,20 @@ The interesting part is not simply writing code faster. It is learning how to gi
 ## 🐍 The contribution graph, but make it dramatic
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mohsinyaqoob/mohsinyaqoob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mohsinyaqoob/mohsinyaqoob/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mohsinyaqoob/mohsinyaqoob/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/mohsinyaqoob/mohsinyaqoob/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
