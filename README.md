@@ -69,9 +69,7 @@ The interesting part is not simply writing code faster. It is learning how to gi
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinyaqoob&layout=compact&hide_border=true&theme=transparent" height="165"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mohsinyaqoob&hide_border=true&theme=transparent" alt="GitHub streak"/>
-</p>
+
 
 ## 🐍 The contribution graph, but make it dramatic
 
